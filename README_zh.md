@@ -1,4 +1,4 @@
-# Win11Debloat (Windows 11 精简与优化工具)
+# Win11Debloat 多语言版本
 
 [English](README.md) | [简体中文](README_zh.md)
 
@@ -14,7 +14,7 @@
 [![Join the Discussion](https://img.shields.io/badge/Join-the%20Discussion-2D9F2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raphire/Win11Debloat/discussions)
 [![Static Badge](https://img.shields.io/badge/Documentation-_?style=for-the-badge&logo=bookstack&color=grey)](https://github.com/Raphire/Win11Debloat/wiki/)
 
-Win11Debloat 是一个轻量级、简单易用的 PowerShell 脚本工具，无需安装即可快速清理和自定义你的 Windows 体验！你可以用它来卸载预装软件、禁用遥测、移除恼人的界面元素等。无需繁琐地逐项查找系统设置或挨个卸载应用，Win11Debloat 让这一切变得轻松快捷！
+Win11Debloat 多语言版本 是一个轻量级、简单易用的 PowerShell 脚本工具，无需安装即可快速清理和自定义你的 Windows 体验！你可以用它来卸载预装软件、禁用遥测、移除恼人的界面元素等。无需繁琐地逐项查找系统设置或挨个卸载应用，Win11Debloat 让这一切变得轻松快捷！
 
 该脚本还包含了许多系统管理员和高级用户喜爱的功能，例如强大的命令行界面、支持 Windows 审核模式（Audit Mode）以及为其他 Windows 用户应用更改的功能。你还可以轻松导出和导入偏好设置，以便在所有设备上快速应用相同的配置。详情请参考我们的 [Wiki 文档](https://github.com/Raphire/Win11Debloat/wiki)。
 
